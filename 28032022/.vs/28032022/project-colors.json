@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1680b722-a1bd-4887-aba3-c8a6966392d5": {
+      "ProjectGuid": "1680b722-a1bd-4887-aba3-c8a6966392d5",
+      "DisplayName": "Polymorphism",
+      "ColorIndex": 0
+    },
+    "17b10da6-7fe1-409f-97f8-ff1c0c6098ec": {
+      "ProjectGuid": "17b10da6-7fe1-409f-97f8-ff1c0c6098ec",
+      "DisplayName": "StaticLesson",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

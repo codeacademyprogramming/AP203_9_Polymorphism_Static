@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\bin\Debug\netcoreapp3.1\StaticLesson.exe
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\bin\Debug\netcoreapp3.1\StaticLesson.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\bin\Debug\netcoreapp3.1\StaticLesson.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\bin\Debug\netcoreapp3.1\StaticLesson.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\bin\Debug\netcoreapp3.1\StaticLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\bin\Debug\netcoreapp3.1\StaticLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\9. 28-03-2022\28032022\StaticLesson\obj\Debug\netcoreapp3.1\StaticLesson.genruntimeconfig.cache
